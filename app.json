@@ -1,0 +1,13 @@
+{
+"pages": [
+  "page/main/main"
+],
+"window": {
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "测试点击事件",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": false
+}
+}
